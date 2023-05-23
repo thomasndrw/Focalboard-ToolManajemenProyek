@@ -18,6 +18,7 @@ Server multi-pengguna mandiri yang digunakan untuk pengembangan pribadi. Downloa
 
 ### 1. Instalasi Focalboard di Windows(Microsoft Store)
 Anda dapat menginstal Focalboard di microsoft store, caranya buka microsoft store>*search* Focalboard>lalu klik *Get*. Tunggu sampai proses *download*nya lalu klik *open* untuk membuka app.
+![alt text](https://github.com/thomasndrw/Focalboard-ToolManajemenProyek/blob/main/focalboard/focalboard1.jpeg)
 
 ### 2. Membuat proyek pertama
 Setelah instalasi app Focalboard selesai, anda di tampilkan halaman awal Focalboard dan bisa langsung *create a board* untuk membuat proyek. Anda bisa membuat proyek pertama dalam bentuk kosongan "*create empty board*" atau menggunakan template "*use this template*" yang tersedia.
