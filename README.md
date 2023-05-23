@@ -13,3 +13,15 @@ Aplikasi dekstop mandiri, pengguna tunggal Windows, MacOS, atau Linux untuk proy
 
 ### 3. Personal Server 
 Server multi-pengguna mandiri yang digunakan untuk pengembangan pribadi. Download klik [here](https://www.focalboard.com/download/personal-edition/ubuntu/)!
+
+## Cara Penggunaan Focalboard
+
+### 1. Instalasi Focalboard di Windows(Microsoft Store)
+Anda dapat menginstal Focalboard di microsoft store, caranya buka microsoft store>*search* Focalboard>lalu klik *Get*. Tunggu sampai proses *download*nya lalu klik *open* untuk membuka app.
+### 2. Membuat proyek pertama
+### 3. Menampilkan proyek berdasarkan status
+### 4. Mengatur tampilan proyek berdasarkan urutan
+### 5. Membuat task baru
+### 6. Berbagi link
+### 7. Setting
+
